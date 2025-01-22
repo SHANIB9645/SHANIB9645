@@ -1,5 +1,7 @@
 # Welcome to My GitHub! 👋
 
+![Cover Image](https://source.unsplash.com/1600x900/?web-design,designer,developer) 
+
 ## About Me
 Hi, I'm a passionate **Web Designer** who loves creating dynamic and responsive web applications. I enjoy turning ideas into reality using clean, efficient code and a great user experience. 🚀
 
@@ -19,7 +21,12 @@ Feel free to explore my repositories and contribute to my projects. I'm always o
 
 ---
 
-✨ **Connect with me**:
-- [LinkedIn](https://www.linkedin.com/in/mohammed-shanib-133567217/)
- 
+### Support My Work ☕️
+If you like my projects and want to support my work, consider buying me a coffee! Your support helps me keep creating. 💖
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/shanibsnb)
+
+---
+
+✨ **Connect with me**:
+- [LinkedIn](https://www.linkedin.com/in/mohammed-shanib-133567217/) 
