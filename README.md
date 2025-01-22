@@ -20,6 +20,6 @@ Feel free to explore my repositories and contribute to my projects. I'm always o
 ---
 
 ✨ **Connect with me**:
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://www.twitter.com)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-shanib-133567217/)
+ 
 
