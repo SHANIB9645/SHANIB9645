@@ -1,6 +1,4 @@
-# Welcome to My GitHub! 👋
-
-![Cover Image](https://source.unsplash.com/1600x900/?web-design,designer,developer) 
+ ![Cover Image](https://plus.unsplash.com/premium_photo-1733306548826-95daff988ae6?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
 
 ## About Me
 Hi, I'm a passionate **Web Designer** who loves creating dynamic and responsive web applications. I enjoy turning ideas into reality using clean, efficient code and a great user experience. 🚀
