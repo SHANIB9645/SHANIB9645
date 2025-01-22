@@ -1,4 +1,4 @@
- ![Cover Image](https://ibb.co/NmpWpqg) 
+ ![Cover Image](https://i.ibb.co/GtkCkDf/DALL-E-2025-01-22-14-42-53-A-personalized-illustration-representing-a-web-developer-s-journey-and-ca.webp) 
 
 ## About Me
 Hi, I'm a passionate **Web Designer** who loves creating dynamic and responsive web applications. I enjoy turning ideas into reality using clean, efficient code and a great user experience. 🚀
